@@ -1,5 +1,5 @@
 # SEO-and-Performance-Websites
-These are the websites which I optimized during my work at American Academy Egy, around 10 websites, the tools I used to check is https://pagespeed.web.dev and https://rankmath.com/tools/seo-analyzer/ 
+These are the websites which I optimized during my work at American Academy Egy, around 11 websites, the tools I used to check are https://pagespeed.web.dev and https://rankmath.com/tools/seo-analyzer/ 
 
 ### 1- https://americanacademyeg.com
 ### 2- https://americanacademyeg.org
