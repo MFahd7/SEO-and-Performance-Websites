@@ -10,3 +10,5 @@ These are the websites which I optimized during my work at American Academy Egy,
 ### 7- https://gatexam.org
 ### 8- https://hossamezzeldin.com
 ### 9- https://study-egypt.com
+### 10- https://talenttrackedu.com
+### 11- https://theschoolranking.com
